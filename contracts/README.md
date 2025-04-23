@@ -1,6 +1,15 @@
-# MY DAILY PROGRESS
+# 💻 My Daily Progress
 
-- I learned about functions, variables, datatypes, mapping, visibility specifiers and pure and view keywords.
-- UPDATE: Learned about how composibilty works in Smart Contract and how different Smart Contracts interact with each other.
-- UPDATE: Making a crowdfunding Smart contract which use chainlink data feeds to convert USD/ETH in realtime.
-- UPDATE: FINALLY COMPLETED MY CROWDFUNING SMART CONTRACT WHERE ANYONE CAN SEND MONEY TO THE CONTRACT AND ONLY THE OWNER CAN WITHDRAW
+## 📚 What I’ve Learned
+
+- Basics of **functions**, **variables**, **data types**, and **mappings** in Solidity  
+- Explored **visibility specifiers** like `public`, `private`, and `internal`  
+- Learned the difference between **`pure`** and **`view`** functions
+
+## 🔄 Updates
+
+- Understood how **composability** works in smart contracts — how different contracts interact with each other
+- Started building a **crowdfunding smart contract** that uses **Chainlink Data Feeds** to convert USD to ETH in real-time
+- ✅ **Completed** the crowdfunding smart contract:
+  - 💸 Anyone can contribute funds to the contract
+  - 🔐 Only the **owner** can withdraw the funds
