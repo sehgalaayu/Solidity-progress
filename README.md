@@ -1,4 +1,4 @@
-# FundMe Smart Contrac
+# FundMe Smart Contract
 
 This is a simple smart contract for **funding** with **ETH** based on real-time **price feed data** from **Chainlink**.  
 It allows users to send ETH if the amount meets a **minimum USD value** requirement, and lets the **owner** withdraw the collected funds.
