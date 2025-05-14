@@ -42,7 +42,7 @@ It allows users to send ETH if the amount meets a **minimum USD value** requirem
 
 - **Solidity** `^0.8.18`
 - **Chainlink** for live price feeds
-- **Hardhat/Foundry** (recommended for testing and deployment)
+- **Hardhat/Foundry** (recommended for testing and deployment
 
 ---
 
